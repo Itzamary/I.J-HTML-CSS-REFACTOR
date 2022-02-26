@@ -1,5 +1,5 @@
 ## Name of Website.
- I.J-WK1-CHALLENGE
+ Horiseon
 
 ## Purpose
 This file was build soley for practicing semantic HTML, making sure the images all had alt attributes, adding comments to both CSS and HTML, and to also make sure both the files had appealing structure.
