@@ -15,4 +15,4 @@ https://itzamary.github.io/I.J-HTML-CSS-REFACTOR/
 Made by Itzamary Jimenez
 
 ## Image
-![image] (screencapture-itzamary-github-io-I-J-HTML-CSS-REFACTOR-2022-02-26-18_41_38.png)
+![] (screencapture-itzamary-github-io-I-J-HTML-CSS-REFACTOR-2022-02-26-18_41_38.png)
